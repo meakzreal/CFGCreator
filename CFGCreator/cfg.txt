@@ -1,0 +1,18 @@
+=============
+Game Name: test
+Game Version: test
+Game Difficulty: test
+Game Respawn Time: test
+Player Starting Health: test
+Player Max Health: test
+Player Starting Money: test
+Player Starting Level: test
+Player XP Multiplier: test
+Player Speed Multiplier: test
+Player Fall Damage: TEST
+Player Friendly Fire: TEST
+Player PVP: TEST
+World Name: test
+World Size: test
+World Border: test
+=============
