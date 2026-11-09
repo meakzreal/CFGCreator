@@ -31,24 +31,6 @@ Once finished, you can review everything before saving it to `cfg.txt`.
 - Confirm your settings before they are written to a file.
 - Save multiple configurations to `cfg.txt`.
 
-## CONFIGURATION SETTINGS
-
-| Setting | Description |
-|---|---|
-| Game Name | Name of the game |
-| Game Version | Current game version |
-| Game Difficulty | Game difficulty setting |
-| Game Respawn Time | Player respawn time |
-| Player Starting Health | Health players start with |
-| Player Max Health | Maximum player health |
-| Player Starting Money | Starting player cash |
-| Player Starting Level | Starting player level |
-| Player XP Multiplier | XP multiplier |
-| Player Speed Multiplier | Player speed multiplier |
-| World Name | Name of the world |
-| World Size | Size of the world |
-| World Border | World border setting |
-
 ## PROJECT STRUCTURE
 
 ```text
@@ -69,22 +51,6 @@ CFGCreator/
 ## HOW TO USE
 
 Make sure Python 3.x is installed.
-
-Open a terminal inside the `CFGCreator` folder and run:
-
-```bash
-python main.py
-```
-
-Select `w` to start creating a configuration.
-
-Answer the questions presented in the terminal.
-
-Once all settings have been entered, the program displays your configuration and asks whether everything is correct.
-
-Type `yes` to save or `no` to enter the settings again.
-
-Configurations are saved to `cfg.txt`. New configurations are added underneath existing ones.
 
 ## IMPORTS I USED
 
@@ -113,8 +79,6 @@ Settings are also currently entered as text rather than being validated against 
 I wanted to make something where I could actually create and save game settings rather than just manually writing everything into a text file.
 
 It's also given me a chance to practise Python using functions, multiple files, user input and file handling.
-
-Still working on it and planning to add more configuration options!
 
 ---
 
