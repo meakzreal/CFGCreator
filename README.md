@@ -52,6 +52,8 @@ CFGCreator/
 
 Make sure Python 3.x is installed.
 
+install EXE and run
+
 ## IMPORTS I USED
 
 **`os`**
